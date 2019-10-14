@@ -1,5 +1,5 @@
 
-```**PythonForEverybody:****
+**PythonForEverybody**:
 
 **Goals:** (high level intended outcomes; for software, a Product Backlog)
 
@@ -74,3 +74,4 @@ Complete independent program (2 hours)***
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjI4MTkyMzc3XX0=
 -->
+
