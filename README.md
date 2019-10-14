@@ -123,3 +123,17 @@
 
 
 
+
+![enter image description here](https://lh3.googleusercontent.com/DSZAWp-dy2_2QUBi9n_m6ENyHjeS27_BNv8d9Leb85IzDV_NzJaksXDxPSfyamLPV4pwbrJlKVI=s0 "Capture3.PNG")
+
+ - **When Python is running in the interactive mode and displaying the Chevron prompt (>>>) it is asking:** *"What would you like it to do?"*
+ 
+ - **Python scripts (files) have names that end with:** *"py".*
+ 
+ - *"For"* **is a reserved word in Python.**
+ 
+ - **A USB memory stick is an example of a secondary memory component of computer architecture.**
+ 
+ - **A** *"Syntax-Error"* **means that the computer did not understand the code you submitted.**
+
+
