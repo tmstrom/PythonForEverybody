@@ -115,3 +115,11 @@
       
 
  - Complete independent program (2 hours)
+ 
+ 
+ 
+ Chapter One: Why We Program?
+----------------------------
+
+
+
