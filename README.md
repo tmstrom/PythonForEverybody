@@ -182,4 +182,20 @@
 
  - **Use # to leave notes to remind you of what you were doing in a program**
 
+## **Chapter 3: Conditional Code** ##
 
+![enter image description here](https://lh3.googleusercontent.com/-DhsKEKfDUsA/XaZO7-72yiI/AAAAAAAAAGo/pFcYFD1sRggw4Q7p8KhhLqgc_hUfKLqeACLcBGAsYHQ/s0/Capture7.PNG "Capture7.PNG")
+
+ - **Boolean expressions ask a question and produce a Yes or No result which we use to control program flow**
+
+ - **Boolean expressions using comparison operators evaluate to True/ False or Yes/ No**
+
+ - **Comparison operators look at variables but do not change the variables**
+
+ - **Indentation is very important in Python**
+
+ - **Surround a dangerous section of code with try and except**
+
+ - **If the code in the try works, the except is skipped**
+
+ - **If the code in the try fails, it jumps to the except**
