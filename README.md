@@ -135,5 +135,51 @@
  - **A USB memory stick is an example of a secondary memory component of computer architecture.**
  
  - **A** *"Syntax-Error"* **means that the computer did not understand the code you submitted.**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ **Chapter 2: Variables and Expressions**
+------------------------------------
+![enter image description here](https://lh3.googleusercontent.com/-lhtFXOmcr-k/XaZBreH0hcI/AAAAAAAAAGY/u7-BW1lEQJgXtUGoiCiBzzMCO-_9VV-swCLcBGAsYHQ/s0/Capture6.PNG "Capture6.PNG")
+
+ - **An assignment statement consists of an expression on the right hand side and a variable to store the result**
+
+ - **We assign a value to a variable using the assignment statement ( = )**
+
+ - **It is possible for both sides of an equation to have the same variable, if that variable had already been assigned a previous value. The first value is then plugged into the expression, evaluated, and the new value overrides the old value**
+
+ - **When we string operators together, Python needs to know which one to do first**
+
+ - **This is called **"*operator precedence*"
+
+ - **Which operator takes precedence over the others?**
+
+ - **Ask Python what type something is by using the type() function**
+
+ - **Variables with numbers are called integers**
+
+ - **Variables with decimals are called floating points**
+
+ - **When you put an integer and floating point into an expression, the integer is implicitly converted into a float**
+
+ - **You can control this with built in functions int() and float()**
+
+ - **Integer division produces a floating point result**
+
+ - **You can also use int() and float() to convert between string and integers**
+
+ - **You will get an error if the string does not contain numeric characters**
+
+ - **Python can be instructed to pause and read data from the user using input function (input())**
+
+ - **The input() function returns a string**
+
+ - **Anything after a # is ignored**
+
+ - **Use # to leave notes to remind you of what you were doing in a program**
 
 
