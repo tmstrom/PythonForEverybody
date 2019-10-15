@@ -154,7 +154,7 @@
 
  - **When we string operators together, Python needs to know which one to do first**
 
- - **This is called **"*operator precedence*"
+  - **This is called "Operator Precedence"**
 
  - **Which operator takes precedence over the others?**
 
