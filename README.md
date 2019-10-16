@@ -199,3 +199,36 @@
  - **If the code in the try works, the except is skipped**
 
  - **If the code in the try fails, it jumps to the except**
+ 
+ ## **Chapter 4: Functions** ##
+![enter image description here](https://lh3.googleusercontent.com/-UTsa8JBXluA/XaaLgYoEFdI/AAAAAAAAAG4/MQB6nRJdLA82LGqt4HLj-6uuqc6D8qOawCLcBGAsYHQ/s0/Capture8.PNG "Capture8.PNG")
+
+
+
+![enter image description here](https://lh3.googleusercontent.com/-SM8ylu-kT_8/XaaLneB2alI/AAAAAAAAAHA/1KZB5KWi4XA3lcEYCOAn7lRqAyWm4CrDACLcBGAsYHQ/s0/Capture9.PNG "Capture9.PNG")
+
+ - **def stands for "start the definition of a function**
+ 
+ - **A function is some stored code that we use. A function takes some input and produces an output**
+
+ - **When you put an integer and floating point in an expression, the integer is implicitly converted to a float**
+
+ - **You can control this with the built in functions int() and float()**
+
+ - **You can also use int() and float() to convert between string and integers**
+
+ - **You will get an error if the string does not contain numeric characters**
+
+ - **We create a new function using the def keyword followed by optional parameters in parentheses**
+
+ - **We indent the body of the function**
+
+ - **This defines the function but does not execute the body of the functions**
+
+ - **An argument is a value we pass into the function as its input when we call the function**
+
+ - **We use arguments so we can direct the function to do different kinds of work when we call it at different times**
+
+ - **We put the arguments in parentheses after the name of the function**
+
+ - **A parameter is a variable which we use in the function definition. It is a "handle" that allows the code in the function to access the arguments for a particular function invocation**
