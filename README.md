@@ -232,3 +232,29 @@
  - **We put the arguments in parentheses after the name of the function**
 
  - **A parameter is a variable which we use in the function definition. It is a "handle" that allows the code in the function to access the arguments for a particular function invocation**
+ 
+ 
+ 
+## **Chapter 5: Loops and Iteration**
+![enter image description here](https://lh3.googleusercontent.com/neFjDMx02nSLsSswzEjevGcYkecJuapJg7UGxnGD_f5jjuDSUND_wktFAr1kUMIILEi1Ag9DGbQ)
+
+ - **Loops (repeated steps) have iteration variables that change each time though a loop. Often these iteration variables go through a sequence of numbers.**
+
+ - **The "break" statement ends the current loop and jumps to the statement immediately following the loop.**
+ 
+ - **It is like a loop test that can happen anywhere in the body of the loop.**
+ 
+ - **The continue statement ends the current iteration and jumps to the top of the loop and starts the next iteration.**
+ 
+ - **Definite loops (for loops) have explicit iteration variables that can change each time through a loop. These iteration variables move through the sequence or set.**
+ 
+ - **The iteration variable "iterates" through the sequence (ordered set).**
+ 
+ - **The block (body) of code is executed once for each value in the sequence.**
+ 
+ - **The iteration variable moves through all of the values in a sequence.**
+ 
+ - **The trick to making a smart loop is "knowing" something about the whole loop when you are stuck writing code that sees only one entry at a time.**
+ 
+ - **To count how many times we execute a loop, we introduce a counter variable that starts at 0 and we add one to it each time through the loop.**
+ - **An average just combines the counting and sum patterns and divides when the loop is done.**
