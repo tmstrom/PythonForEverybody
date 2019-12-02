@@ -258,3 +258,5 @@
  
  - **To count how many times we execute a loop, we introduce a counter variable that starts at 0 and we add one to it each time through the loop.**
  - **An average just combines the counting and sum patterns and divides when the loop is done.**
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/jl2mnemIR7EDmo7UYdjxfk0ZI4JinmuaI6cLO-nsYOP1qQn2XG5WXNdIF1QxXP1mD4XWoobP9IPq)
