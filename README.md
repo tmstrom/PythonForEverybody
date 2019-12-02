@@ -318,3 +318,21 @@
  - **The list stays in order and new elements are added at the end of the list**
  - **A list can hold many items and keeps those items in the order until we do something to change the order**
  - **A list can be sorted**
+ 
+ ## **Chapter 9: Dictionaries**
+
+![enter image description here](https://lh3.googleusercontent.com/v4GEG9sseQt466YAPzkkB4svoGGrI7zxDc3LwY243_k3iiWPeH9eUMvb2HZ6BQStdtYAO-O9MqZ1)
+
+ - **A list is a linear collection of values that stay in order whereas a dictionary is a "bag" of values, each with its own label**
+ - **Dictionaries are Python's most powerful data collection**
+ - **Dictionaries allow us to do fast database-like operations in Python**
+ - **They have different names in different languages**
+ - **Lists index their entries based on the position in the list**
+ - **Dictionaries are like bags - no order**
+ - **Dictionaries are like lists except that they use keys instead of numbers to look up values**
+ - **We index the things we put in the dictionary with a "lookup tag"**
+ - **Dictionary literals use curly braces and have a list of key: value pairs**
+ - **You can make an empty dictionary using curly braces**
+ - **One common use of dictionaries is counting how often we "see" something**
+ - **The general pattern to count the words in a line of text is to split the line into words, then loop through the words and use a dictionary to track the count of each word independently**
+ - **You can get a list of keys, values, or both from a dictionary**
