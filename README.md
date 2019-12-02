@@ -336,3 +336,18 @@
  - **One common use of dictionaries is counting how often we "see" something**
  - **The general pattern to count the words in a line of text is to split the line into words, then loop through the words and use a dictionary to track the count of each word independently**
  - **You can get a list of keys, values, or both from a dictionary**
+ 
+ ## **Chapter 10: Tuples**
+![enter image description here](https://lh3.googleusercontent.com/lv2LhdGjl-RglSWNcxH3UBPkRzIUtCSJjwhnleCB0_ilG2fOEz4E8drchS2dbYTSghM0qY7UoxS6)
+
+ - **Tuples are another kind of sequence that functions much like a list - they have elements which are indexed starting at zero**
+ - **Since Python does not have to build tuple structures to be modifiable, they are simpler and more efficient in terms of memory use and performance than lists**
+ - **So in our program when we are making "temporary variables" we prefer tuples over lists**
+ - **We can also put a tuple on the left-hand side of an assignment statement**
+ - **We can even omit the parenthesis**
+ - **The items () method in dictionaries returns a list of (key value) tuples**
+ - **The comparison operators work with tuples and other sequences. If the first item is equal, Python goes on to the next element, and so on until it finds the elements that differ**
+ - **We can do this even more directly using the built-in function sorted that takes a sequence as a parameter and returns a sorted sequence**
+ - **If we could construct a list of tuples of the form (value, key) we could sort by value**
+ - **We do this with a for loop that creates a list of tuples**
+ - **List comprehension creates a dynamic list. In this case, we make a list of reversed tuples and then sort it**
