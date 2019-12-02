@@ -302,3 +302,19 @@
  - **Remember - a sequence is an ordered set**
  - **We can strip the whitespace from the right-hand side of the string using rstrip() from the string library**
  - **The newline is considered 'whitespace' and is stripped**
+ 
+ # **Chapter 8: Lists**
+
+![enter image description here](https://lh3.googleusercontent.com/_WcOZD2fIOxNuvZz8QLnlsAhqmikMRtGGtRkwDbqYvISrOI7gE_vUVywFINOThUm4YSDWNgdem5v)
+
+ - **Most of our variables have one value in them when we put a new value in the variable, the old value is overwritten**
+ - **A collection allows us to put many values in a single "variable"**
+ - **A collection is nice because we can carry many values around in one convenient package**
+ - **List constraints are surrounded by square brackets and the elements in the list are separated by commas**
+ - **A list element can be any Python object - even another list**
+ - **A list can be empty**
+ - **Strings are "immutable" - we cannot change the contents of a string - we must make a new string to make any change**
+ - **We cannot create an empty list and then add elements using the append method**
+ - **The list stays in order and new elements are added at the end of the list**
+ - **A list can hold many items and keeps those items in the order until we do something to change the order**
+ - **A list can be sorted**
