@@ -284,3 +284,21 @@
  - **The in keyword can also be used to check to see if one string is "in" another string**
  - **The in expression is a logical expression that returns True or False and can be used in an if statement**
  
+ ## **Chapter 7: Files**
+
+![enter image description here](https://lh3.googleusercontent.com/2FOoaPGH997KG3XpizCB5es6abhpWuuiVChPUlgZuytTbFvjP34c7hBtqilH1mVSRgbDkZK0v6at)
+
+ - **A text file can be thought of as a sequence of lines**
+ - **Before we can read the contents of a file, we must tell python which file we are going to work with and what we will be doing with the file**
+ - **This is done with the () function**
+ - **open () returns a "file handle" - a variable used to perform operations on a file**
+ - **Similar to "File->Open" in a Word Processor**
+ - **We use a special character called the "newline" to indicate when a line ends**
+ - **We represent it a \n in strings**
+ - **Newline is still one character - not two**
+ - **A text file has newlines at the end of each line**
+ - **A file handle open for read can be treated as a sequence of strings where each line is a string in the sequence**
+ - **We can use the for statement to iterate through a sequence**
+ - **Remember - a sequence is an ordered set**
+ - **We can strip the whitespace from the right-hand side of the string using rstrip() from the string library**
+ - **The newline is considered 'whitespace' and is stripped**
