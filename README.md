@@ -260,3 +260,27 @@
  - **An average just combines the counting and sum patterns and divides when the loop is done.**
  
  ![enter image description here](https://lh3.googleusercontent.com/jl2mnemIR7EDmo7UYdjxfk0ZI4JinmuaI6cLO-nsYOP1qQn2XG5WXNdIF1QxXP1mD4XWoobP9IPq)
+ 
+ ## Chapter 6: Strings
+
+ ![enter image description here](https://lh3.googleusercontent.com/j2bdCeWr_lHVg3R2Rtm5PolVJY95PTloSOoXu_wqdPMmJwJxXkhZozfsEkAaifdlQPdV0Y_c2lbb)
+ 
+
+ - **A string is a sequence of numbers**
+ - **A string literal uses quotes 'Hello' or "Hello"**
+ - **For strings, + means "concatenate"**
+ - **When a string contains numbers, it is still a string**
+ - **We can convert numbers in a string into a number using int().**
+ - **We can get at any single character in a string using an index specified in square brackets**
+ - **The index value must be an integer and starts at zero**
+ - **The index value can be an expression that is computed**
+ - **We can get at any single character in a string using an index specified in square brackets**
+ - **The index value must be an integer and starts at zero**
+ - **The index value can be an expression that is computed**
+ - **The built-in function len gives us the length of a string**
+ - **A function is some stored code that we can use. A function takes some input and produces an output**
+ - **Using a while statement and an iteration variable, and the len function, we can construct a loop to loop at each of the letters in a string individually**
+ - **When the + operator is applied to strings, it means "concatenation"**
+ - **The in keyword can also be used to check to see if one string is "in" another string**
+ - **The in expression is a logical expression that returns True or False and can be used in an if statement**
+ 
